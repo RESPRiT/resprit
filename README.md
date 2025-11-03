@@ -1,16 +1,14 @@
-## Hi there 👋
+hello yes; my name is harrison, and I love learning.
 
-<!--
-**RESPRiT/resprit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Currently:_
 
-Here are some ideas to get you started:
+- I am a Fall 2 '25 Batch Recurser @ [The Recurse Center](https://www.recurse.com/)
+- I make short films on YouTube as [RESPRiT](https://www.youtube.com/@resprit)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Before_
+
+- I was the Community Director @ [Karat](https://www.trykarat.com/)
+- I was a PhD Student @ [Delta Lab Northwestern](https://github.com/nudelta)
+- I was a Software Engineer Intern @ [Allen Institute](https://allenai.org/)
+
+I am an independent learning scientist + learner. I am skilled in programming, design, writing, and filmmaking.
