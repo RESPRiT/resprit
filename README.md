@@ -1,9 +1,9 @@
 hello yes; my name is harrison, and I love learning.
 
-_Currently:_
+_Currently_
 - I am a Software Engineer @ [Numeric](https://www.numeric.io/)
  
-_Sometimes:_
+_Sometimes_
 - I make short films on YouTube as [RESPRiT](https://www.youtube.com/@resprit)
 
 _Before_
